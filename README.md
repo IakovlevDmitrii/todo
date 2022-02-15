@@ -1,29 +1,35 @@
-todo app
+# Учебный проект
+В рамках программы изучения React
 
-Решение можно посмотреть здесь:
-https://todo-psi-eight.vercel.app/
+---
+### Цель:
+- Изучение React
+- Использовать библиотеку компонентов [Ant Design](https://ant.design/)  
+- Использовать библиотеку [date-fns](https://date-fns.org/)
+- Использовать библиотеку [Lodash](https://lodash.com/)
 
-Инструменты:
+### Задание:
+Реализовать ToDo приложение
 
-React
+### Инструменты:
 
-antd:
-https://ant.design/
+> - HTML
+> - CSS
+> - JS
+> - React
+> - Ant Design
+> - #### Webpack
+>> - Babel
+>> - ESLint
+>> - Lint-staged
+>> - Prettier
+>> - Husky
 
-date-fns:
-https://date-fns.org/
+### Решение можно посмотреть [здесь](https://todo-psi-eight.vercel.app/)
 
-lodash:
-https://lodash.com/
+---
+_Создан_:  
+Mar 15, 2021
 
-prop-types
-
-babel
-
-eslint
-
-lint-staged
-
-prettier
-
-husky
+_Последние изменения_:  
+Feb 15, 2022
