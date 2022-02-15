@@ -1,11 +1,8 @@
 # Учебный проект
 В рамках программы изучения React
 
-### Цели:
+### Цель:
 - Изучение React
-- Использовать библиотеку компонентов [Ant Design](https://ant.design/)  
-- Использовать библиотеку [date-fns](https://date-fns.org/)
-- Использовать библиотеку [Lodash](https://lodash.com/)
 
 ### Задание:
 Реализовать ToDo приложение
@@ -15,7 +12,6 @@
 > - CSS
 > - JS
 > - React
-> - Ant Design
 > - #### Webpack
 >> - Babel
 >> - ESLint
